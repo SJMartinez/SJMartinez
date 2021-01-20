@@ -14,7 +14,7 @@
 ### Estudiante Ingenieria En Sistemas UTN FRBA. Segundo año.
 
 
-#### - Buscando desarrollarme profesionalmente y sumar experiencia
+#### - Buscando desarrollarme profesionalmente y sumar experiencia como dev
 
 
 <br />
