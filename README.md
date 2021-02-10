@@ -11,10 +11,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=SJMartinez.SJMartinez)
 
 
-### Estudiante Ingenieria En Sistemas UTN FRBA. Segundo año.
-
-
-#### - Buscando desarrollarme profesionalmente y sumar experiencia como dev
+### - Estudiante Ingenieria En Sistemas UTN FRBA. Segundo año.
+### - Implementation Analyst
+### - Desarrollandome profesionalmente como developer
 
 
 <br />
