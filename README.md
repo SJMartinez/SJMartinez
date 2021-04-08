@@ -12,8 +12,7 @@
 
 
 ### - Estudiante Ingenieria En Sistemas UTN FRBA. Segundo año.
-### - Implementation Analyst
-### - Desarrollandome profesionalmente como developer
+### - Software Engineer
 
 
 <br />
