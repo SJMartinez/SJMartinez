@@ -8,7 +8,6 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=SJMartinez.SJMartinez)
 
 
 ### - Estudiante Ingenieria En Sistemas UTN FRBA. Segundo año.
